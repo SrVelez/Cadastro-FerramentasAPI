@@ -1,0 +1,6 @@
+@Cadastro_de_Ferramentas_HostAddress = http://localhost:5138
+
+GET {{Cadastro_de_Ferramentas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
